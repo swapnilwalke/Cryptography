@@ -1,3 +1,3 @@
-module github.com/swapnilwalke/Cryptography/otp
+module otp
 
 go 1.20
